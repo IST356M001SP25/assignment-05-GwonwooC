@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Gwonwoo Cha
+Sudent Email:  gcha01@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,6 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+Through this assignment, I learned how to build a simple data pipeline using pandas.
+Also, I could practice how to clean data and adjust salaries based on cost of living.
+One challenge I faced was installing boto3.
